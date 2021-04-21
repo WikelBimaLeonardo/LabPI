@@ -14,6 +14,7 @@ int main()
     cout << "Hasil Pengurangan :" << y;
     cout << endl;
     cout << "Hasil Perkalian :" << z;
- 
+    cout << endl;
+    cout << "Ditambah lalu dikali 2 :" << 2*x; 
     return 0;
 }
