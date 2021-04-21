@@ -7,10 +7,13 @@ int main()
 
     int x = a+b;
     int y = a-b;
+    int z = a*b;
 
     cout << "Hasil Penjumlahan :" << x;
     cout << endl;
     cout << "Hasil Pengurangan :" << y;
-    
+    cout << endl;
+    cout << "Hasil Perkalian :" << z;
+ 
     return 0;
 }
